@@ -1,0 +1,15 @@
+export default {
+insta : require('../assets/images/insta.png'),
+back : require('../assets/images/Back.png'),
+hide : require('../assets/images/hide.png'),
+profile : require('../assets/images/profile.png'),
+Notification : require('../assets/images/Notification.png'),
+search : require('../assets/images/search.png'),
+AddFriend : require('../assets/images/AddFriend.png'),
+Add : require('../assets/images/Add.png'),
+check : require('../assets/images/check.png'),
+AddPicture : require('../assets/images/AddParentProfile.png'),
+Exclamation : require('../assets/images/exclamation.png'),
+Next : require('../assets/images/Next.png'),
+whiteBack : require('../assets/images/BackWhite.png'),
+};
